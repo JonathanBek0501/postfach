@@ -35,7 +35,7 @@
             </p>
         </div>
         
-        <div class="bg-bg-50 bg-cover bg-no-repeat flex flex-col justify-between h-full w-full rounded-md">
+        <div class="relative bg-bg-50 bg-cover bg-no-repeat rounded-md">
             <div class="text-center text-white pt-[20%]">
                 <h2 class="text-4xl font-semibold mb-5">
                     Kundenservice, <br>plattformübergreifend.
@@ -46,7 +46,7 @@
                 </p>
             </div>
 
-            <div class="w-full">
+            <div class="absolute bottom-0 w-full max-h-[630px] overflow-hidden">
                 <img src="/illustration-reset-pasw.svg" alt="illustration" class="w-full h-full object-cover">
             </div>
         </div>
