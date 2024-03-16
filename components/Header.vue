@@ -1,6 +1,6 @@
 <template>
     <header class="absolute w-full p-4 pb-0 z-10">
-        <div class="flex items-center justify-between w-full p-5">
+        <div class="flex items-center justify-between gap-2 w-full p-5">
             <img src="/logo-white.svg" alt="logo">
 
             <div class="flex items-center gap-5">

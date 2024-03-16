@@ -18,7 +18,8 @@ export default {
             light: '#DBF0FF'
           },
           gray: '#F7FAFB',
-          yelow: '#E5B52C'
+          yelow: '#E5B52C',
+          green: '#89C265'
         }
       },
       fontFamily: {

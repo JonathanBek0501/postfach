@@ -10,3 +10,21 @@
         @apply focus-visible:outline-none
     }
 }
+
+/* Height */
+.expand-leave-active,
+.expand-enter-active {
+  transition: all 400ms ease-in-out;
+  overflow: hidden;
+}
+
+.expand-enter-to,
+.expand-leave-from {
+  max-height: 1000px;
+}
+
+.expand-enter-from,
+.expand-leave-to {
+  opacity: 0;
+  max-height: 0;
+}
